@@ -1,5 +1,6 @@
 {
   "name": "movie_blog",
+  "homepage": "https://borgssam.github.io/movie_blog/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
