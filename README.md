@@ -1,7 +1,7 @@
 # 영화리뷰사이트만들기
 
 ## github pages설정하기
-> 1.설정페이지 이동 Setting>Pages
+### 1.설정페이지 이동 Setting>Pages
 <table style=" border-collapse: collapse; border:none;">
   <tr>
     <td style=" border: none;"></td>
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-> 2.프로젝트에 build설정바꾸기
+### 2.프로젝트에 build설정바꾸기
 <table style=" border-collapse: collapse; border:none;">
   <tr>
     <td style=" border: none;">
@@ -29,13 +29,15 @@
     </td>
   </tr>
 </table>
-> 3.영화리뷰사이트개발
->> 1.폴더구조설정
->> 2.로딩화면
->> 3.영화데이터(json)가져오기
->> 4.구조변경(Home)
->> 5.메뉴추가(About)
->> 6.상세보기추가
+### 3.영화리뷰사이트개발
+#### 1.폴더구조설정
+#### 2.로딩화면
+#### 3.영화데이터(json)가져오기
+#### 4.구조변경(Home)
+#### 5.메뉴추가(About)
+#### 6.상세보기추가
+
+-------------
 
 
 
