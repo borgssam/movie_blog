@@ -1,0 +1,62 @@
+
+/* Detail 컴포넌트의 컨테이너 스타일 */
+.detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* 영화 포스터 스타일 */
+.detail img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+/* 제목 스타일 */
+.detail h2 {
+  font-size: 2rem;
+  margin: 10px 0;
+  color: #333;
+}
+
+/* 요약 텍스트 스타일 */
+.detail p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.5;
+  text-align: center;
+  margin-bottom: 20px;
+  max-width: 90%;
+}
+
+/* 장르 리스트 스타일 */
+.detail ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* 장르 항목 스타일 */
+.detail li {
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 5px 10px;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+/* 장르 항목에 마우스를 올렸을 때 스타일 */
+.detail li:hover {
+  background-color: #e0e0e0;
+  cursor: pointer;
+}
