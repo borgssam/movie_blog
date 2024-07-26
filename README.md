@@ -1,3 +1,19 @@
+# 영화리뷰사이트만들기
+
+## github pages설정하기
+> 1.설정페이지 이동 Setting>Pages
+<table>
+  <tr>
+    <td></td>
+    <td>![image](https://github.com/user-attachments/assets/2f0272ec-0073-4177-ace4-519e20920004)</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
