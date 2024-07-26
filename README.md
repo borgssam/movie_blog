@@ -2,10 +2,12 @@
 
 ## github pages설정하기
 > 1.설정페이지 이동 Setting>Pages
-<table>
+<table style=" border-collapse: collapse; border:none;">
   <tr>
-    <td></td>
-    <td>![image](https://github.com/user-attachments/assets/2f0272ec-0073-4177-ace4-519e20920004)</td>
+    <td style=" border: none;"></td>
+    <td style=" border: 1px solid black;">
+      <img src="https://github.com/user-attachments/assets/b33330e3-0dd8-4b97-948b-76aefeb93abe"/>
+    </td style=" border: none;">
     <td></td>
   </tr>
 </table>
