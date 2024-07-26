@@ -11,6 +11,24 @@
     <td></td>
   </tr>
 </table>
+> 2.프로젝트에 build설정바꾸기
+<table style=" border-collapse: collapse; border:none;">
+  <tr>
+    <td style=" border: none;">
+      <img src="https://github.com/user-attachments/assets/0c0326b1-a170-4cf2-9390-2007e49abf27"/>
+    </td>
+    <td style=" border: 1px solid black;">
+      <img src="https://github.com/user-attachments/assets/8a9aa75f-48e2-42c1-8350-73f2e740716c"/>
+    </td style=" border: none;">
+    <td>
+      <img src="https://github.com/user-attachments/assets/737879ac-82db-43dc-b1f9-f9e3a8d56872"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0b194563-0a99-4e98-b2cc-91f8edb0c8aa"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
